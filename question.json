@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1",
+    "questionList": [
+      {
+        "correct": "Gomitas con colageno",
+        "options": [
+          "Gomitas con colageno",
+          "Gomitas con tianina",
+          "Gomitas con CBD",
+          "Gomitas con vinagre"
+        ],
+        "question": "Qué contiene Gelasimi Forte?"
+      },
+      {
+        "correct": "Gomitas Wellmune",
+        "options": [
+          "Gomitas Elderberry",
+          "Gomitas Wellmune",
+          "Gomitas Calcio",
+          "Gomitas Omega 3"
+        ],
+        "question": "Qué contiene Simiwell Kids?"
+      }
+    ],
+    "subtitle": "Productos nuevos Octubre",
+    "time": "10",
+    "title": "Productos"
+  },
+    {
+    "id": "2",
+    "questionList": [
+      {
+        "correct": "Mitochondria",
+        "options": [
+          "Nucleo",
+          "Mitocondria",
+          "Retículo endoplasmático",
+          "Aparato de Golgi"
+        ],
+        "question": "Cuál es la parte que da energía a la célula?"
+      },
+      {
+        "correct": "Dioxido de carbono",
+        "options": [
+          "Oxigeno",
+          "Dioxido de carbono",
+          "Nitrógeno",
+          "Hidrógeno"
+        ],
+        "question": "Qué gas absorben las plantas durante la fotosíntesis?"
+      },
+      {
+        "correct": "Piel",
+        "options": [
+          "Corazón",
+          "Hígado",
+          "Piel",
+          "Pulmones"
+        ],
+        "question": "Cuál es el órgano más grande del cuerpo humano?"
+      },
+      {
+        "correct": "Portar oxígeno",
+        "options": [
+          "Portar oxígeno",
+          "Digerir la comida",
+          "Producir anticuerpos",
+          "Almacenar energía"
+        ],
+        "question": "Cuál es la función de las células rojas de la sangre?"
+      }
+    ],
+    "subtitle": "Biología básica",
+    "time": "18",
+    "title": "Ciencia"
+  },
+  {
+    "id": "3",
+    "questionList": [
+      {
+        "correct": "París",
+        "options": [
+          "Berlín",
+          "Madrid",
+          "París",
+          "Roma"
+        ],
+        "question": "Cuál es la capital de Francia?"
+      },
+      {
+        "correct": "Tokyo",
+        "options": [
+          "Seoul",
+          "Beijing",
+          "Tokyo",
+          "Bangkok"
+        ],
+        "question": "Cúal ciudad is la capital de Japón?"
+      },
+      {
+        "correct": "Australia",
+        "options": [
+          "Australia",
+          "Canada",
+          "México",
+          "Marruecos"
+        ],
+        "question": "Canberra es la capital de que país?"
+      },
+      {
+        "correct": "Brasília",
+        "options": [
+          "Buenos Aires",
+          "Rio de Janeiro",
+          "Brasília",
+          "São Paulo"
+        ],
+        "question": "Cuál es la capital de Brasil?"
+      },
+      {
+        "correct": "Roma",
+        "options": [
+          "Atenas",
+          "Roma",
+          "Viena",
+          "Barcelona"
+        ],
+        "question": "Cuál ciudad europea es conocida como 'La ciudad eterna'?"
+      }
+    ],
+    "subtitle": "Capitales del mundo",
+    "time": "10",
+    "title": "Geografía"
+  }
+]
